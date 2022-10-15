@@ -61,5 +61,3 @@ int main(int argc, char **argv)
   return 0;
 }
 ```
-## Task 2
-## Task 3
