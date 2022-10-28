@@ -39,6 +39,9 @@ We propose two general architectures
   
 In the above we can always include battery packs in parallel to increase capacity
 
+## Circuit schematic for cell balancing
+<img src="https://github.com/PrasannaPaithankar/Repo4AGV/blob/main/IGVC-2023/Screenshot%20(1076).png" class="bg-primary" width="250px">
+
 ***
 ##### Regarding Autonomous Ground Vehical Research Group, IIT Kharagpur
 <img src="https://github.com/PrasannaPaithankar/AGV-Embedded-Task/blob/main/V_oc-vs-SoC-Determination/AGVlogo.png" class="bg-primary" width="150px">
